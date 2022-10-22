@@ -4,7 +4,7 @@
         "Name": "Konjac Translate",
         "Punchline": "Translate party JA -> ZH",
         "Description": "/kj",
-        "InternalName": "v",
+        "InternalName": "KonjacTranslate",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/YukiDalamudPlugins/KonjacTranslate",
         "DalamudApiLevel": 7,
