@@ -1,22 +1,22 @@
 [
-    {
-        "Author": "Yuki",
-        "Name": "Konjac Translate",
-        "Punchline": "Translate party JA -> ZH",
-        "Description": "/kj",
-        "InternalName": "KonjacTranslate",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/YukiDalamudPlugins/KonjacTranslate",
-        "AssemblyVersion": "0.0.0",
-        "DalamudApiLevel": 7,
-        "IconUrl": "",
-        "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/YukiDalamudPlugins/KonjacTranslate/releases/download/0.0.0/KonjacTranslate.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/YukiDalamudPlugins/KonjacTranslate/releases/download/0.0.0/KonjacTranslate.zip",
-        "DownloadLinkUpdate": "https://github.com/YukiDalamudPlugins/KonjacTranslate/releases/download/0.0.0/KonjacTranslate.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "0"
-    }
+  {
+    "Author": "Yuki",
+    "Name": "Konjac Translate",
+    "Punchline": "Translate party JA -> ZH",
+    "Description": "/kj",
+    "InternalName": "KonjacTranslate",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/YukiDalamudPlugins/KonjacTranslate",
+    "AssemblyVersion": "0.0.0",
+    "DalamudApiLevel": 7,
+    "IconUrl": "",
+    "ImageUrls": [],
+    "DownloadLinkInstall": "https://github.com/YukiDalamudPlugins/KonjacTranslate/releases/download/0.0.0/KonjacTranslate.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/YukiDalamudPlugins/KonjacTranslate/releases/download/0.0.0/KonjacTranslate.zip",
+    "DownloadLinkUpdate": "https://github.com/YukiDalamudPlugins/KonjacTranslate/releases/download/0.0.0/KonjacTranslate.zip",
+    "DownloadCount": 0,
+    "LastUpdated": "0"
+  }
 ]
