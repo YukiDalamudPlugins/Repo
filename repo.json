@@ -10,12 +10,13 @@
       "translate",
       "plugin"
     ],
+    "AssemblyVersion": "0.0.1",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1666443615,
-    "DownloadCount": 2,
-    "DownloadLinkInstall": "https://github.com/YukiDalamudPlugins/KonjacTranslate/releases/download/0.0.0/KonjacTranslate.zip",
-    "DownloadLinkTesting": "https://github.com/YukiDalamudPlugins/KonjacTranslate/releases/download/0.0.0/KonjacTranslate.zip",
-    "DownloadLinkUpdate": "https://github.com/YukiDalamudPlugins/KonjacTranslate/releases/download/0.0.0/KonjacTranslate.zip"
+    "LastUpdated": 1666527099,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/YukiDalamudPlugins/KonjacTranslate/releases/download/0.0.1/KonjacTranslate.zip",
+    "DownloadLinkTesting": "https://github.com/YukiDalamudPlugins/KonjacTranslate/releases/download/0.0.1/KonjacTranslate.zip",
+    "DownloadLinkUpdate": "https://github.com/YukiDalamudPlugins/KonjacTranslate/releases/download/0.0.1/KonjacTranslate.zip"
   }
 ]
